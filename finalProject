@@ -1,1 +1,55 @@
+<!DOCTYPE HTML>
 
+<html>
+
+    <head>
+
+        <title>Joe Amaral's Portfolio</title>
+
+        <meta charset="utf-8">
+
+        <style>
+
+            body { 
+
+            background-color:#F3E2A9
+
+            }
+
+        </style>
+
+    </head>
+
+    <body>
+
+   <center><img src="banner123.jpg"></center>
+
+    
+
+<center>
+
+    <table> 
+
+        <thead>
+
+            <tr>
+
+                <th><a href="index.html"><img hspace="20" src="button1.jpg"></a></th>
+
+                <th><a href="javascript.html"><img hspace="20" src="javascripts.jpg"></a></th>
+
+                <th><a href="apps.html"><img hspace="20" src="apps.jpg"></a></th>
+
+                <th><a href="about.html"><img hspace="20" src="aboutme.jpg"></a></th>
+
+                <th><a href="finalProject"><img hspace="20" src="final button.jpg"</a></th>
+
+            </tr>
+
+        </thead>
+
+        </table> </center>
+
+        
+
+        <h1><center><strong> Javascripts </strong></center></h1>
